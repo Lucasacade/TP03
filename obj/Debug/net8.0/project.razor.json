@@ -19339,6 +19339,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\Views\\Home\\Disco.cshtml",
+      "TargetPath": "Views\\Home\\Disco.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"

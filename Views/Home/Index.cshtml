@@ -1,8 +1,35 @@
 ﻿@{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Music Store";
 }
 
+<body>
+<header>
+    <h1>MUSIC STORE</h1> <br>
+    <h2>Bienvenidos a Music Store</h2> <br>
+    <h3>Acá encontrás los mejores discos</h3> <br>
+</header>
+<main>
+<p> Este es nuestro catálogo </p> <br>
+
+<section>
+
 <div>
-    <h1>Index</h1>
-    <p>Bienvenidos al sitio web de NombreProyecto</p>
+<img src = "Imágenes/" alt = "Foto Álbum" />
+<h4> @ViewBag.Disco.Nombre</h4>
+<p>Artista: @ViewBag.Disco.Artista</p>
+<p>Género: @ViewBag.Disco.Género</p>
+<p>Productor: @ViewBag.Disco.Productor</p>
+<p> Ver más <a href = "Disco.cshtml"> Acá </a> </p>
 </div>
+
+
+
+</section>
+
+
+
+</main>
+
+
+<footer>Lucas, Federico y Tobías - Music Store</footer>
+</body>
