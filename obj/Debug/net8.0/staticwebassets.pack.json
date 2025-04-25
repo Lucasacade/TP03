@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Imágenes\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\ab67616d00001e02bfb94590c914538b193f6931.jpg",
+      "PackagePath": "staticwebassets\\Imágenes\\ab67616d00001e02bfb94590c914538b193f6931.jpg"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\ab67616d00001e02ca7cf5470b635a1b0a53fa36.jpg",
+      "PackagePath": "staticwebassets\\Imágenes\\ab67616d00001e02ca7cf5470b635a1b0a53fa36.jpg"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\ab67616d0000b2734d6bd72db38ca317e0934baa.jpg",
+      "PackagePath": "staticwebassets\\Imágenes\\ab67616d0000b2734d6bd72db38ca317e0934baa.jpg"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\ab67616d0000b273546d66125577fdca616ec73c.jpg",
+      "PackagePath": "staticwebassets\\Imágenes\\ab67616d0000b273546d66125577fdca616ec73c.jpg"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\ab67616d0000b273bbd45c8d36e0e045ef640411.jpg",
+      "PackagePath": "staticwebassets\\Imágenes\\ab67616d0000b273bbd45c8d36e0e045ef640411.jpg"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\ab67616d0000b273d53036b726a5a5a1cda5e891.jpg",
+      "PackagePath": "staticwebassets\\Imágenes\\ab67616d0000b273d53036b726a5a5a1cda5e891.jpg"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\ab67616d0000b273ee67e1ebdbc7a30772972a48.jpg",
+      "PackagePath": "staticwebassets\\Imágenes\\ab67616d0000b273ee67e1ebdbc7a30772972a48.jpg"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\css\\estilo.css",
+      "PackagePath": "staticwebassets\\css\\estilo.css"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP03.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP03.props",
+      "PackagePath": "build\\TP03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP03.props",
+      "PackagePath": "buildMultiTargeting\\TP03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP03.props",
+      "PackagePath": "buildTransitive\\TP03.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

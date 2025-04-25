@@ -5,6 +5,7 @@
 <body>
 <header>
     <h1>MUSIC STORE</h1> <br>
+    <img src = ""  alt= ""/>
     <h2>Bienvenidos a Music Store</h2> <br>
     <h3>Acá encontrás los mejores discos</h3> <br>
 </header>
@@ -14,12 +15,15 @@
 <section>
 
 <div>
-<img src = "Imágenes/" alt = "Foto Álbum" />
-<h4> @ViewBag.Disco.Nombre</h4>
-<p>Artista: @ViewBag.Disco.Artista</p>
-<p>Género: @ViewBag.Disco.Género</p>
-<p>Productor: @ViewBag.Disco.Productor</p>
-<p> Ver más <a href = "Disco.cshtml"> Acá </a> </p>
+@foreach (var disco in ViewBag.discos.Values)
+{
+<img src = "@disco.Foto" alt = "Foto" >
+<h4>@disco.Nombre</h4>
+<p>Artista: @disco.Artista</p>
+<p>Género: @disco.GeneroMusical</p>
+<p>Productor: @disco.Productor</p>
+<p> Ver más <a href = '@Url.Action("SelectDisco", "Home", new {IDdisco = disco.IDdisco})'> Acá </a> </p>
+}
 </div>
 
 
