@@ -4,8 +4,8 @@
 <body>
 
 <header>
-<img src = "@ViewBag.disco.Foto" alt = "Foto" >
 <h1>@ViewBag.disco.Nombre</h1> <br>
+<img src = "/Imágenes/@ViewBag.disco.Foto" alt = "Foto" >
 <h3> Artista: @ViewBag.disco.Artista</h3> <br>
 <h3> Género: @ViewBag.disco.GeneroMusical</h3> <br>
 <h3> Productor: @ViewBag.disco.Productor</h3> <br>
@@ -16,10 +16,9 @@
 <section>
 
 <div>
-@foreach(var Cancion in ViewBag.disco.canciones.Values)
+@for(int i = 0; i < ViewBag.disco.canciones.Count; i++)
 {
-<p>Género: @Cancion.GeneroMusical</p>
-<p>Productor: @Cancion.Productor</p>
+<p>@ViewBag.disco.canciones[i].IDcancion - @ViewBag.disco.canciones[i].nombre</p> 
 }
 </div>
 

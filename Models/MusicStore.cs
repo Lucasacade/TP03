@@ -120,6 +120,25 @@ class MusicStore
         canciones.Add(new Cancion("No Vendo Trap",15));
         canciones.Add(new Cancion("Si Te Sentis Sola",16));
         discos.Add(7,new Disco("Mejores Exitos","Duki","Yesan","trap latino, reggaeton, freestyle, hip hop, pop rap, y R&B",canciones,7,"ab67616d0000b2734d6bd72db38ca317e0934baa.jpg"));
+        
+        canciones.Clear();
+        canciones.Add(new Cancion("Confía En Mí",1));
+        canciones.Add(new Cancion("Dime Que No",2));
+        canciones.Add(new Cancion("No Lo Engañes Más",3));
+        canciones.Add(new Cancion("Cómo Quisiera",4));
+        canciones.Add(new Cancion("Te Fuiste",5));
+        canciones.Add(new Cancion("Dime Si Eres Feliz",6));
+        canciones.Add(new Cancion("Yo Que Te Amé",7));
+        canciones.Add(new Cancion("Me Extrañarás",8));
+        canciones.Add(new Cancion("Te Quiero Corazón",9));
+        canciones.Add(new Cancion("Tan Solo Quiero Amarte",10));
+        canciones.Add(new Cancion("Dime Tú",11));
+        canciones.Add(new Cancion("La Quiero a Ella",12));
+        canciones.Add(new Cancion("Si No Estás...",13));
+        canciones.Add(new Cancion("Si La Ves Otra Vez",14));
+        canciones.Add(new Cancion("Desde Que Te Vi",15));
+        canciones.Add(new Cancion("Despójate",16));
+        discos.Add(8,new Disco("Confía en Mí","Hernán y la Champions Liga","Confía en Mí","Cumbia y Cuarteto",canciones,8,"ab67616d0000b2734f269221ec9eb997c513c1fe.jpg"));
         return discos;
     }
 

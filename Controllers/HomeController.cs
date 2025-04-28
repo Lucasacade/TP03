@@ -27,7 +27,7 @@ public class HomeController : Controller
         {
             ViewBag.disco = discos[IDdisco];
         }
-        return View("Disco.cshtml");
+        return View("Disco");
     }
 
 }

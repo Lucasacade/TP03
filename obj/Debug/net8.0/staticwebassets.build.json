@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W3Iyo3qLGA6Ln6XFmVS9AvLgGZEUC6TRAjhaIRwdddU=",
+  "Hash": "R4aWvl1n8w/2GKtjMAmNvw5CSPxI6dg8LMvs9Mmz+sk=",
   "Source": "TP03",
   "BasePath": "_content/TP03",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imágenes\\ab67616d0000b2734d6bd72db38ca317e0934baa.jpg"
+    },
+    {
+      "Identity": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\ab67616d0000b2734f269221ec9eb997c513c1fe.jpg",
+      "SourceId": "TP03",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\",
+      "BasePath": "_content/TP03",
+      "RelativePath": "Imágenes/ab67616d0000b2734f269221ec9eb997c513c1fe.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imágenes\\ab67616d0000b2734f269221ec9eb997c513c1fe.jpg"
     },
     {
       "Identity": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\ab67616d0000b273546d66125577fdca616ec73c.jpg",
