@@ -5,7 +5,7 @@
 <body>
 <header>
     <h1>MUSIC STORE</h1> <br>
-    <img src = ""  alt= ""/>
+    <img src = "/Imágenes/MEIUJAD.png"  alt= "FeLuTo"/>
     <h2>Bienvenidos a Music Store</h2> <br>
     <h3>Acá encontrás los mejores discos</h3> <br>
 </header>
@@ -17,12 +17,14 @@
 <div>
 @foreach (var disco in ViewBag.discos.Values)
 {
+<article>
 <h4>@disco.Nombre</h4>
 <img src = "/Imágenes/@disco.Foto" alt = "Foto" >
 <p>Artista: @disco.Artista</p>
 <p>Género: @disco.GeneroMusical</p>
 <p>Productor: @disco.Productor</p>
 <p> Ver más <a href = '@Url.Action("SelectDisco", "Home", new {IDdisco = disco.IDdisco})'> Acá </a> </p>
+</article>
 }
 </div>
 
@@ -31,9 +33,7 @@
 </section>
 
 
-
+<footer>Federico Ajami, Lucas Dorin y Tobías Nul</footer>
 </main>
 
-
-<footer>Lucas, Federico y Tobías - Music Store</footer>
 </body>

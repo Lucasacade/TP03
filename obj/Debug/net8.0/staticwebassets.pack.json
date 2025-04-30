@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\Captura de pantalla 2025-04-30 084306.png",
+      "PackagePath": "staticwebassets\\Imágenes\\Captura de pantalla 2025-04-30 084306.png"
+    },
+    {
+      "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\MEIUJAD.png",
+      "PackagePath": "staticwebassets\\Imágenes\\MEIUJAD.png"
+    },
+    {
       "Id": "Z:\\4 AÑO 2025\\PROGRAMACION\\TP03\\TP03\\wwwroot\\Imágenes\\Thumbs.db",
       "PackagePath": "staticwebassets\\Imágenes\\Thumbs.db"
     },

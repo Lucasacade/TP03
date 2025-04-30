@@ -40,7 +40,7 @@ class MusicStore
         canciones.Add(new Cancion("EoO",15));
         canciones.Add(new Cancion("DtMF",16));
         canciones.Add(new Cancion("LA MuDANZA",17));
-        discos.Add(2,new Disco("DeBÍ TiRAR MÁS FOToS","Bad Buny","Dysbit","Reguetón, Salsa, Música house, Plena, Jíbaro",canciones,2,"ab67616d0000b273bbd45c8d36e0e045ef640411.jpg"));
+        discos.Add(2,new Disco("DeBÍ TiRAR MÁS FOToS","Bad Buny","Dysbit","Reguetón, Salsa y Música house",canciones,2,"ab67616d0000b273bbd45c8d36e0e045ef640411.jpg"));
 
         canciones.Clear();
         canciones.Add(new Cancion("INTRO: SPEECH CRUZZI",1));
@@ -100,7 +100,7 @@ class MusicStore
         canciones.Add(new Cancion("Ojitos_Verdes.mp3",11));
         canciones.Add(new Cancion("A_1000_Km.mp3",12));
         canciones.Add(new Cancion("Guerrero.mp3",13));
-        discos.Add(6,new Disco(".MP3","Emilia","Big One","Pop, RyB contemporaneo, Dance pop, Hip hop, Urban",canciones,6,"ab67616d00001e02bfb94590c914538b193f6931.jpg"));
+        discos.Add(6,new Disco(".MP3","Emilia","Big One","Pop, RyB contemporaneo y Urban",canciones,6,"ab67616d00001e02bfb94590c914538b193f6931.jpg"));
 
         canciones.Clear();
         canciones.Add(new Cancion("Mojaa",1));
@@ -119,7 +119,7 @@ class MusicStore
         canciones.Add(new Cancion("B.U.H.O",14));
         canciones.Add(new Cancion("No Vendo Trap",15));
         canciones.Add(new Cancion("Si Te Sentis Sola",16));
-        discos.Add(7,new Disco("Mejores Exitos","Duki","Yesan","trap latino, reggaeton, freestyle, hip hop, pop rap, y R&B",canciones,7,"ab67616d0000b2734d6bd72db38ca317e0934baa.jpg"));
+        discos.Add(7,new Disco("Mejores Exitos","Duki","Yesan","trap latino, reggaeton y freestyle",canciones,7,"ab67616d0000b2734d6bd72db38ca317e0934baa.jpg"));
         
         canciones.Clear();
         canciones.Add(new Cancion("Confía En Mí",1));
@@ -139,6 +139,29 @@ class MusicStore
         canciones.Add(new Cancion("Desde Que Te Vi",15));
         canciones.Add(new Cancion("Despójate",16));
         discos.Add(8,new Disco("Confía en Mí","Hernán y la Champions Liga","Confía en Mí","Cumbia y Cuarteto",canciones,8,"ab67616d0000b2734f269221ec9eb997c513c1fe.jpg"));
+      
+        canciones.Clear();
+        canciones.Add(new Cancion("COMPETENCIA",1));
+        canciones.Add(new Cancion("OTRA OPORTUNIDAD",2));
+        canciones.Add(new Cancion("AUNQUE LLEGUE OTRO",3));
+        canciones.Add(new Cancion("MEJOR ASÍ",4));
+        canciones.Add(new Cancion("TAMBIÉN",5));
+        canciones.Add(new Cancion("FRÍO",6));
+        canciones.Add(new Cancion("CACHÉ",7));
+        canciones.Add(new Cancion("SEXO DESENFRENADO",8));
+        canciones.Add(new Cancion("LA PRIMERA VEZ",9));
+        canciones.Add(new Cancion("PODER ADQUISITIVO",10));
+        canciones.Add(new Cancion("VENENOSA",11));
+        canciones.Add(new Cancion("OTRA NOCHE",12));
+        canciones.Add(new Cancion("SE TE NOTA",13));
+        canciones.Add(new Cancion("HASTA LA VISTA",14));
+        canciones.Add(new Cancion("DINERO Y FAMA",15));
+        canciones.Add(new Cancion("EN EL MAR",16));
+        canciones.Add(new Cancion("VAMO A DARLE",17));
+        canciones.Add(new Cancion("DIABLITA",18));
+        canciones.Add(new Cancion("ADIVINO",19));
+        canciones.Add(new Cancion("HASTA LUEGO",20));
+        discos.Add(9,new Disco("LA PANTERA NEGRA","Myke Towers","Full Harmony","Urbano latino",canciones,9,"Captura de pantalla 2025-04-30 084306.png"));
         return discos;
     }
 
